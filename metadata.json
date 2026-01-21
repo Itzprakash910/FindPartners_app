@@ -1,0 +1,9 @@
+{
+  "name": "FindPartners: Your Perfect Match Awaits",
+  "description": "A modern matrimony application designed to help you find your perfect life partner on FindPartners. Features include detailed profile management and connection tools.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone",
+    "camera"
+  ]
+}
